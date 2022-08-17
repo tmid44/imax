@@ -1,0 +1,19 @@
+h1{
+    margin-left: auto;
+    margin-right: auto; 
+    width: 40%;
+    padding-top: 10%; 
+}
+
+form{
+    margin-left: auto;
+    margin-right: auto; 
+    width: 40%;
+}
+
+.log{
+    color: black;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 25%;
+}
